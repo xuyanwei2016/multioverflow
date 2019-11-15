@@ -15,4 +15,4 @@ Vue.prototype.multiOverflow = multiOverflow
 ## 兼容浏览器
 谷歌 IE 360 火狐
 
-##如果有什么问题 可以添加QQ群 963637866 一起讨论
+## 如果有什么问题 可以添加QQ群 963637866 一起讨论
