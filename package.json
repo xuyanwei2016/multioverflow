@@ -1,0 +1,12 @@
+{
+  "name": "multi-overflow",
+  "version": "1.0.4",
+  "description": "This is a multi line Overflow Hidden plug-in",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/xuyanwei2016/multioverflow.git"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  }
+}
